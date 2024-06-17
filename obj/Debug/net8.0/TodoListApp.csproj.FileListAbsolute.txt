@@ -1,0 +1,15 @@
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.AssemblyInfoInputs.cache
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.AssemblyInfo.cs
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.csproj.CoreCompileInputs.cache
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.sourcelink.json
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/bin/Debug/net8.0/TodoListApp
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/bin/Debug/net8.0/TodoListApp.deps.json
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/bin/Debug/net8.0/TodoListApp.runtimeconfig.json
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/bin/Debug/net8.0/TodoListApp.dll
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/bin/Debug/net8.0/TodoListApp.pdb
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.dll
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/refint/TodoListApp.dll
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.pdb
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/TodoListApp.genruntimeconfig.cache
+/Users/davidlilienfeld/Documents/GitHub/TodoListApp/obj/Debug/net8.0/ref/TodoListApp.dll
